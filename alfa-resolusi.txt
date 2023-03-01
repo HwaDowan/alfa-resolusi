@@ -7,3 +7,6 @@ ALFA RESOLUSI
 - Menamatkan dan menguasai Web Development (HTML, CSS, JavaScript, PHP, MYSQL, React JS, Node JS, Larave, dan Code Igniter)
 - Menamatkan dan menguasai Mobile Development (React Native, Flutter, dan Kotlin)
 - Menamatkan dan menguasai Matematika SMA dan Matematika Kampus
+- Menamatkan dan menguasai Cyber Security
+- Menamatkan dan menguasai Cloud Computing
+- Menamatkan dan menguasai Network Computer
