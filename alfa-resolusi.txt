@@ -9,4 +9,4 @@ ALFA RESOLUSI
 - Menamatkan dan menguasai Matematika SMA dan Matematika Kampus
 - Menamatkan dan menguasai Cyber Security
 - Menamatkan dan menguasai Cloud Computing
-- Menamatkan dan menguasai Network Computer
+- Menamatkan dan menguasai IoT
