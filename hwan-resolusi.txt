@@ -1,0 +1,5 @@
+Halo pak nama saya Hwan dari korea
+
+Resolusi saya :
+- Membuat Aplikasi Dekstop dengan Java
+- Membuat Aplikasi Dekstop dengan Python
