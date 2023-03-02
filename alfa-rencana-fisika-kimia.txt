@@ -1,7 +1,9 @@
 Rencana Belajar FISIKA dan KIMIA
 - Mempelajari FISIKA dan KIMIA SMA
   * Belajar lewat Zenius
+    > Mengerjakan soal sbmptn di zenius
+    > Memprint soal soal sbmptn di zenius
 - Mempelajari FISIKA dan KIMIA Dasar Perguruaan Tinggi
   * Belajar lewat buku Fisika Dasar
   * Belajar lewat buku Kimia Dasar
-- Mengerjakan Soal Soal di buku UTBK
+
